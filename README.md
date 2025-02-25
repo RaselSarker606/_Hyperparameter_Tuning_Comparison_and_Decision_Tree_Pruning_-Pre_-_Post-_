@@ -1,5 +1,8 @@
 # 📌 Hyperparameter Tuning Comparison and Decision Tree Pruning (Pre & Post)
 
+![Hyperparameter Tuning](https://img.shields.io/badge/ML-Hyperparameter%20Tuning-blue)  
+![Decision Tree](https://img.shields.io/badge/Decision%20Tree-Pruning-green)  
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 
 ## 📖 Overview  
 This project explores **Hyperparameter Tuning** techniques and **Decision Tree Pruning (Pre & Post)** to optimize model performance. The goal is to compare different tuning approaches and analyze the impact of pruning on decision trees.
